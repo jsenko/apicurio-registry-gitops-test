@@ -1,0 +1,10 @@
+$type: registry-v0
+id: prod
+globalRules:
+  - type: VALIDITY
+    enabled: true
+    config: FULL
+  - type: COMPATIBILITY
+    enabled: true
+    config: BACKWARD
+settings: [ ]
