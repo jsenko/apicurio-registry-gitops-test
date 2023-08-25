@@ -1,7 +1,7 @@
 $type: artifact-v0
 registryId: prod
 groupId: bar
-id: test
+id: petstore-prod
 versions:
   - id: 1
     globalId: 1

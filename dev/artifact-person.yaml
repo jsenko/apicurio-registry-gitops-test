@@ -1,12 +1,12 @@
 $type: artifact-v0
 registryId: dev
 groupId: foo
-id: petstore
+id: person
 versions:
   - id: 1
-    globalId: 1
-    contentFile: content-1.yaml
+    globalId: 2
+    contentFile: content-2.yaml
 rules:
   - type: VALIDITY
     enabled: true
-    config: FULL
+    config: SYNTAX

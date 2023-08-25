@@ -1,0 +1,5 @@
+$type: content-v0
+registryId: dev
+id: 2
+contentHash: 92cba2dcde37846c0f8d81a6ea272f7ca9ab707b3df20a6f509c16aae61d75a3 # TODO: Required? Needs to be verified.
+dataFile: ../content/Person.json
