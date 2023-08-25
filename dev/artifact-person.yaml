@@ -3,8 +3,11 @@ registryId: dev
 groupId: foo
 id: person
 versions:
-  - id: 1
+  - id: "1"
     globalId: 2
+    contentFile: content-2.yaml
+  - id: "1"
+    globalId: 3
     contentFile: content-2.yaml
 rules:
   - type: VALIDITY
